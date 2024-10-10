@@ -39,6 +39,7 @@ layout: home
             margin-left: 0; /* Remove default margin */
             margin-right: 0;
             margin-top: 0;
+            margin-bottom: 10px;
             padding: 0; /* Remove default padding */
             display: inline-block; /* Ensure they are treated as block elements */
             vertical-align: top;
