@@ -74,9 +74,9 @@ layout: home
 
 <ul class="social-media-list">
 
-<a href="https://github.com/mneal4"><i class="fa fa-github move-right-more" style="font-size:24px"></i></a>
-<a href="https://ca.linkedin.com/in/mackenzie-neal-a02060136"><i class="fa fa-linkedin move-right-more icon" style="font-size:24px"></i></a>
-<a href="https://g.co/kgs/U8Q58Mv"><i class="fa fa-graduation-cap move-right-more icon" style="font-size:24px"></i></a>
+<a href="https://github.com/mneal4"><i class="fa fa-github " style="font-size:24px"></i></a>
+<a href="https://ca.linkedin.com/in/mackenzie-neal-a02060136"><i class="fa fa-linkedin icon" style="font-size:24px"></i></a>
+<a href="https://g.co/kgs/U8Q58Mv"><i class="fa fa-graduation-cap icon" style="font-size:24px"></i></a>
 </ul>
 
 </body>
