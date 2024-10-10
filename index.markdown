@@ -36,7 +36,9 @@ layout: home
             margin-left: 335px; /* Adjust the value to move it more or less */
     }
     .icon {
-            margin: 0; /* Remove default margin */
+            margin-left: 0; /* Remove default margin */
+            margin-right: 0;
+            margin-top: 0;
             padding: 0; /* Remove default padding */
             display: inline-block; /* Ensure they are treated as block elements */
             vertical-align: top;
