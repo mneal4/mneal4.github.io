@@ -51,7 +51,12 @@ layout: home
 
 <img src="Untitled.png" alt="Paris" class="move-right" style="width:75%;" >
 
+<ul class="social-media-list">
 
+<a href="https://github.com/mneal4"><i class="fa fa-github " style="font-size:24px"></i></a>
+<a href="https://ca.linkedin.com/in/mackenzie-neal-a02060136"><i class="fa fa-linkedin icon" style="font-size:24px"></i></a>
+<a href="https://g.co/kgs/U8Q58Mv"><i class="fa fa-graduation-cap icon" style="font-size:24px"></i></a>
+</ul>
 
 <p><span style="color:blue">Education and Training:</span></p>
 <hr>
@@ -69,14 +74,6 @@ layout: home
 <li style="font-size:15px; ">Hidden Markov models</li>
 <li style="font-size:15px; ">Flow cytometry data</li>
 <li style="font-size:15px; ">Dimension reduction</li>
-</ul>
-
-
-<ul class="social-media-list">
-
-<a href="https://github.com/mneal4"><i class="fa fa-github " style="font-size:24px"></i></a>
-<a href="https://ca.linkedin.com/in/mackenzie-neal-a02060136"><i class="fa fa-linkedin icon" style="font-size:24px"></i></a>
-<a href="https://g.co/kgs/U8Q58Mv"><i class="fa fa-graduation-cap icon" style="font-size:24px"></i></a>
 </ul>
 
 </body>
