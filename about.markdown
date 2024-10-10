@@ -52,7 +52,7 @@ permalink: /Research/
   <ul class="no-bullets">
      <li><b>Variable selection for clustering of three-way data</b></li>
         <ul class="no-bullets indented-list">
-            <li>Invited Talk - 11th International Conference on Soft Methods in Probability and Statistics, Salzburg, Austra, September 3-6, 2024. </li>
+            <li>Invited Talk - 11th International Conference on Soft Methods in Probability and Statistics, Salzburg, Austria, September 3-6, 2024. </li>
          </ul>
     <li><b>Clustering flow cytometry data via mutual information maximization</b></li>
         <ul class="no-bullets indented-list">
