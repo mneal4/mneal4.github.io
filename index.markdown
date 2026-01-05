@@ -53,7 +53,7 @@ layout: home
 <body>
 
 <img src="Untitled2.png" alt="Paris" style="width:35%; float: right;">
-
+<div style="clear: both;"></div>
 <ul class="social-media-list">
 
 <a href="https://github.com/mneal4"><i class="fa fa-github " style="font-size:24px"></i></a>
