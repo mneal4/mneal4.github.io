@@ -52,7 +52,7 @@ layout: home
 
 <body>
 
-<img src="Untitled.png" alt="Paris" class="move-right" style="width:75%;" >
+<img src="Neal_headshot.jpg" alt="Paris" class="move-right" style="width:75%;" >
 
 <ul class="social-media-list">
 
