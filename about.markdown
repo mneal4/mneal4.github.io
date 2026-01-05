@@ -110,6 +110,8 @@ permalink: /Research/
 
   <ul class="no-bullets">
         <li>Canada Graduate Scholarships - Doctoral: Awarded by NSERC in 2024</li>
+        <li>Student Oral Presentation Award, The 2024 Annual Meeting of The Classification Society</li>
+        <li>Student Poster Presentation Award, The 2023 Annual Meeting of The Classification Society</li>
     </ul>
 
 </body>
